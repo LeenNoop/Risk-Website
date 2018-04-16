@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="wide wow-animation">
 <head>
-<title>Team Panda</title>
+<title>Operation Panda</title>
 <meta name="format-detection" content="telephone=no">
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -65,7 +65,7 @@
                       <dd>Asma Bi</dd>
                     </dl>
                   </li>
-                  
+
                 </ul>
               </div>
               <div class="divider-fullwidth bg-gray-light offset-top-15"></div>
@@ -82,7 +82,7 @@
       </div>
     </section>
   </main>
-  
+
   <footer class="page-foot section-15 bg-gray-base">
     <div class="shell text-center">
       <div class="range">
